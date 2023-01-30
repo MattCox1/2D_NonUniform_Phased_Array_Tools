@@ -3,6 +3,8 @@
 
 This python notebook allows a user to create an optimised 2D non-uniform phased array design based on a determined scoring function. In its current state, it performs beamforming via interference pattern generation. 
 
+### NOTE: This repository is in its very early days and as of now, is incomplete.
+
 
 ## Phased arrays
 
